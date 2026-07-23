@@ -107,14 +107,7 @@ The dashboard includes several interactive visualizations and analytical tools:
 
 ## 📸 Screenshots
 
-Screenshots of the dashboard will be added here.
-
-```
-images/dashboard.png
-images/histogram.png
-images/price_distribution.png
-```
-
+Screenshots of the dashboard are in images file in this rep.
 ---
 
 ## 📦 Requirements
